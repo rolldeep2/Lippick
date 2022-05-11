@@ -17,11 +17,11 @@ React, Node.js 기반의 웹 페이지입니다.
 
 
 
-<img src="ppt/1.JPG" width="100%" height="500px" alt="1"></img><br/>
-<img src="ppt/2.JPG" width="100%" height="500px" alt="1"></img><br/>
-<img src="ppt/4.JPG" width="100%" height="500px" alt="1"></img><br/>
-<img src="ppt/5.JPG" width="100%" height="500px" alt="1"></img><br/>
-<img src="ppt/7.JPG" width="100%" height="500px" alt="1"></img><br/>
-<img src="ppt/9.JPG" width="100%" height="500px" alt="1"></img><br/>
-<img src="ppt/11.JPG" width="100%" height="500px" alt="1"></img><br/>
-<img src="ppt/13.JPG" width="100%" height="500px" alt="1"></img><br/>
+<img src="ppt/1.JPG" width="100%" alt="1"></img><br/>
+<img src="ppt/2.JPG" width="100%"   alt="1"></img><br/>
+<img src="ppt/4.JPG" width="100%"   alt="1"></img><br/>
+<img src="ppt/5.JPG" width="100%"   alt="1"></img><br/>
+<img src="ppt/7.JPG" width="100%"   alt="1"></img><br/>
+<img src="ppt/9.JPG" width="100%"   alt="1"></img><br/>
+<img src="ppt/11.JPG" width="100%"   alt="1"></img><br/>
+<img src="ppt/13.JPG" width="100%"   alt="1"></img><br/>
